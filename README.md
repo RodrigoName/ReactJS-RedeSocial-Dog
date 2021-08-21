@@ -12,3 +12,5 @@ To run:
 ##login: dog
 
 ###pass: dog
+
+To see the project [https://react-js-rede-social-dog.vercel.app/]
