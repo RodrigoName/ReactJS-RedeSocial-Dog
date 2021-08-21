@@ -8,3 +8,7 @@ To run:
 ->npm install
 
 ->npm start
+
+##login: dog
+
+###pass: dog
